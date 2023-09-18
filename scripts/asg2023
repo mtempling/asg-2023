@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+if ! v=$(ove-proj2val ${1} video); then
+	exit 1
+elif ! wget --show-progress -q -nc -P /var/tmp ${v}; then
+	exit 1
+elif ! setsid -w xdg-open "/var/tmp/${v##*/}"; then
+	exit 1
+fi

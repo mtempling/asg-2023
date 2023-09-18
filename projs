@@ -1,0 +1,188 @@
+---
+forensic_container_checkpointing_and_analysis:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-177-eng-Forensic_container_checkpointing_and_analysis_hd.mp4
+
+pid_fd_ize_all_the_things_:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-178-eng-PID_FD-ize_all_the_things_hd.mp4
+
+y2038_replace_utmp_with_logind:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-183-eng-Y2038_replace_utmp_with_logind_hd.mp4
+
+soft_reboot_atomically_replace_rootfs_and_reboot_userspace_without_kernel_restart:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-184-eng-Soft_Reboot_atomically_replace_rootfs_and_reboot_userspace_without_kernel_restart_hd.mp4
+
+unified_kernel_images_ukis_:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-185-eng-Unified_Kernel_Images_UKIs_hd.mp4
+
+linux_tpms:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-186-eng-Linux_TPMs_hd.mp4
+
+microsoft_azure_boost_image_based_linux_powering_the_azure_fleet_wait_what_really_yes_:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-187-eng-Microsoft_Azure_Boost_Image-based_Linux_powering_the_Azure_fleet_Wait_what_Really_Yes_hd.mp4
+
+systemd_boot_integration_in_opensuse:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-189-eng-systemd-boot_integration_in_openSUSE_hd.mp4
+
+mkosi_building_bespoke_operating_system_images:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-190-eng-mkosi_Building_Bespoke_Operating_System_Images_hd.mp4
+
+systemd_repart_building_discoverable_disk_images:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-191-eng-systemd-repart_Building_Discoverable_Disk_Images_hd.mp4
+
+adventures_of_linux_userspace_at_meta:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-193-eng-Adventures_of_Linux_Userspace_at_Meta_hd.mp4
+
+principle_of_least_configuration:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-194-eng-Principle_of_least_configuration_hd.mp4
+
+system_and_configuration_extensions_for_image_based_linux_distros_and_beyond:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-195-eng-System_and_Configuration_Extensions_for_Image-based_Linux_Distros_and_Beyond_hd.mp4
+
+bpfilter_a_bpf_based_packet_filtering_framework:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-196-eng-bpfilter_a_BPF-based_packet_filtering_framework_hd.mp4
+
+wip_sandboxing_apt:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-198-eng-WIP_Sandboxing_APT_hd.mp4
+
+_64_bit_timet_on_armhf_running_abi_compliance_checker_on_all_of_ubuntu:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-199-eng-64-bit_time_t_on_armhf_Running_abi-compliance-checker_on_all_of_Ubuntu_hd.mp4
+
+talos_linux_trustedboot_for_a_minimal_immutable_os:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-202-eng-Talos_Linux_-_TrustedBoot_for_a_minimal_Immutable_OS_hd.mp4
+
+an_unified_tpm_event_log_for_linux:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-204-eng-An_Unified_TPM_Event_Log_for_Linux_hd.mp4
+
+building_image_based_oses_with_buildstream:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-206-eng-Building_image-based_OSes_with_BuildStream_hd.mp4
+
+oxidizing_the_arch_linux_packaging_infrastructure:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-207-eng-Oxidizing_the_Arch_Linux_packaging_infrastructure_hd.mp4
+
+opensuse_aeon_desktop_linux_finally_done_right_:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-208-eng-openSUSE_Aeon_-_Desktop_Linux_finally_done_right_hd.mp4
+
+casync_is_not_dead_or_how_i_learned_to_love_desync:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-209-eng-Casync_is_not_dead_or_how_I_learned_to_love_desync_hd.mp4
+
+a_story_of_a_bootloader_w_wthree_bootloaders:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-210-eng-A_story_of_a_bootloader_W_Wthree_bootloaders_hd.mp4
+
+a_b_partitioning_let_s_talk_about_the_dirty_rw_files:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-211-eng-A_B_partitioning_-_lets_talk_about_the_dirty_RW_files_hd.mp4
+
+exploring_rauc_a_flexible_building_block_for_image_based_updates:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-213-eng-Exploring_RAUC_A_Flexible_Building_Block_for_Image-Based_Updates_hd.mp4
+
+writing_your_own_nixos_modules_for_fun_and_hopefully_profit:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-214-eng-Writing_your_own_NixOS_modules_for_fun_and_hopefully_profit_hd.mp4
+
+asynchronous_dbus_with_c_co_routines:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-215-eng-asynchronous_dbus_with_C_co-routines_hd.mp4
+
+confidential_compute_state_of_the_art_and_how_to_get_started:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-217-eng-Confidential_Compute_State-of-the-art_and_how_to_get_started_hd.mp4
+
+fast_correct_reproducible_builds_with_nix_bazel:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-219-eng-Fast_correct_reproducible_builds_with_Nix_Bazel_hd.mp4
+
+retake_of_service_restarts:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-220-eng-Retake_of_service_restarts_hd.mp4
+
+encrypted_btrfs_subvolumes_keeping_container_storage_safe:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-221-eng-Encrypted_Btrfs_Subvolumes_Keeping_Container_Storage_Safe_hd.mp4
+
+antlir2_deterministic_image_builds_with_buck2:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-223-eng-antlir2_Deterministic_image_builds_with_buck2_hd.mp4
+
+making_a_magic_deduplicating_tar_using_the_ficlone_ioctl:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-225-eng-Making_a_magic_deduplicating_tar_using_the_FICLONE_ioctl_hd.mp4
+
+replica_one_a_software_defined_operating_system:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-227-eng-Replicaone_A_Software-defined_Operating_System_hd.mp4
+
+why_would_you_still_want_to_use_strace_in_2023_:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-228-eng-Why_would_you_still_want_to_use_strace_in_2023_hd.mp4
+
+gaining_linux_insights_with_inspektor_gadget_an_ebpf_tool_and_systems_inspection_framework:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-230-eng-Gaining_Linux_insights_with_Inspektor_Gadget_an_eBPF_tool_and_systems_inspection_framework_hd.mp4
+
+kernel_command_line_and_uki_systemd_stub_and_the_stubby_alternative:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-231-eng-Kernel_command_line_and_UKI_systemd-stub_and_the_stubby_alternative_hd.mp4
+
+disaggregated_networks_is_network_hardware_special_:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-236-eng-Disaggregated_networks_Is_network_hardware_special_hd.mp4
+
+booting_fast_why_does_power_on_to_login_still_last_longer_than_one_second_:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-237-eng-Booting_fast_Why_does_power-on_to_login_still_last_longer_than_one_second_hd.mp4
+
+opening_session_of_all_systems_go_2023:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-239-eng-Opening_session_of_All_Systems_Go_2023_hd.mp4
+
+closing_session_of_all_systems_go_2023:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-240-eng-Closing_session_of_All_Systems_Go_2023_hd.mp4
+
+wolfi_a_secure_by_default_distro_for_curing_container_cve_chaos:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-241-eng-Wolfi_A_Secure-by-Default_Distro_for_Curing_Container_CVE_Chaos_hd.mp4
+
+trusted_confidential_and_cloud_native_workloads_an_intro_to_the_confidential_containers_project:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-242-eng-Trusted_Confidential_and_Cloud_Native_Workloads_An_intro_to_the_Confidential_Containers_project_hd.mp4
+
+new_mount_api:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-244-eng-New_Mount_API_hd.mp4
+
+tvix_store:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-245-eng-tvix-store_hd.mp4
+
+attaching_cpus_via_usb:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-246-eng-Attaching_CPUs_via_USB_hd.mp4
+
+carbon_os_homed:
+  video:
+    https://cdn.media.ccc.de/events/all_systems_go/2023/h264-hd/asg2023-247-eng-Carbon_OS_homed_hd.mp4

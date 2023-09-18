@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+for p in $(grep -E '^[a-z_0-9]+:$' ${OVE_OWEL_DIR:?}/projs); do
+	read -r -p "${p/:/}"
+	ove-asg2023 ${p/:/}
+done
